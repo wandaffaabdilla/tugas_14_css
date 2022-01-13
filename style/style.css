@@ -1,0 +1,152 @@
+.container {
+  display: flex;
+  color: white;
+  flex-direction: row;
+  text-align: center;
+  margin: -15px;
+}
+
+.container2 {
+  display: flex;
+  color: white;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 15px;
+  margin-left: -15px;
+}
+
+.container3 {
+  display: flex;
+  color: white;
+  flex-direction: row;
+  text-align: center;
+  margin-left: -15px;
+}
+
+.box-box1 {
+  background-color: #2cd1ab;
+  width: 135px;
+  height: 45px;
+  padding-top: 35px;
+}
+
+.box-box2 {
+  background-color: #3be043;
+  width: 135px;
+  height: 45px;
+  padding-top: 35px;
+}
+
+.box-box3 {
+  background-color: #3561f1;
+  width: 135px;
+  height: 45px;
+  padding-top: 35px;
+}
+
+.box-box4 {
+  background-color: #ce36c6;
+  width: 135px;
+  height: 45px;
+  padding-top: 35px;
+}
+
+.box-box5 {
+  background-color: #180b31;
+  width: 135px;
+  height: 45px;
+  padding-top: 35px;
+}
+
+.box-box6 {
+  background-color: #d1ff06;
+  width: 135px;
+  height: 45px;
+  padding-top: 35px;
+}
+
+.box-box7 {
+  background-color: #fcb83b;
+  width: 135px;
+  height: 45px;
+  padding-top: 35px;
+}
+
+.box-box8 {
+  background-color: #fa2424;
+  width: 135px;
+  height: 45px;
+  padding-top: 35px;
+}
+
+.box-box9 {
+  background-color: #a9a9a9;
+  width: 135px;
+  height: 45px;
+  padding-top: 35px;
+}
+
+.box-box10 {
+  background-color: #808080;
+  width: 135px;
+  height: 45px;
+  padding-top: 35px;
+}
+
+/* perbedaan class / pembatas antar class */
+
+.boxbox1 {
+  background-color: #2cd1ab;
+  width: 200px;
+  height: 45px;
+  padding-top: 30px;
+}
+
+.boxbox2 {
+  background-color: #3be043;
+  width: 200px;
+  height: 45px;
+  padding-top: 30px;
+}
+
+.boxbox3 {
+  background-color: #3561f1;
+  width: 200px;
+  height: 45px;
+  padding-top: 30px;
+}
+
+.boxbox4 {
+  background-color: #ce36c6;
+  width: 200px;
+  height: 45px;
+  padding-top: 30px;
+}
+
+.boxbox5 {
+  background-color: #180b31;
+  width: 200px;
+  height: 45px;
+  padding-top: 30px;
+}
+
+.boxbox6 {
+  background-color: #d1ff06;
+  width: 200px;
+  height: 45px;
+  padding-top: 30px;
+}
+
+.boxbox7 {
+  background-color: #fcb83b;
+  width: 200px;
+  height: 45px;
+  padding-top: 30px;
+}
+
+.boxbox8 {
+  background-color: #fa2424;
+  width: 200px;
+  height: 45px;
+  padding-top: 30px;
+}
